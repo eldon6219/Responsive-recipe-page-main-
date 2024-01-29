@@ -51,6 +51,7 @@ main {
     padding: 2.5rem;
     background-color: var(--White);
     border-radius: 1.5rem;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.015);
 }
 
 @media(max-width:600px) {
