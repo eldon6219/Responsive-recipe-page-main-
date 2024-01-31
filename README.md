@@ -41,4 +41,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Author
 
 - Frontend Mentor (https://www.frontendmentor.io/profile/eldon6219)
+- linked in - (https://www.linkedin.com/in/m-eldon-96b195229/)
 
